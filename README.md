@@ -8,8 +8,10 @@ The skills and qualities that stand out the most in my professional profile are 
 
 Since I was little I have pursued the same dream which consists of being able to change the world and leave a mark with my skills and knowledge, to be a pioneer in the creation of algorithms that facilitate the way we currently perceive things with the aim of always seeking perfection. and continuous improvement.
 
+- 😄 Pronouns: Piter, Sech.
 - 🔭 I’m currently working on Callao.
 - 🌱 I’m currently learning Web Languages
+- - 💬 Ask me about React, Node, Javascript, MongoDB, NoSql, Sql.
 - 📫 How to reach me: facusichi@gmail.com || facusichi99@hotmail.com
 
 <!--
