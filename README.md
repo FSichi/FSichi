@@ -10,8 +10,8 @@ Since I was little I have pursued the same dream which consists of being able to
 
 - 😄 Pronouns: Piter, Sech.
 - 🔭 I’m currently working on Callao.
-- 🌱 I’m currently learning Web Languages
-- - 💬 Ask me about React, Node, Javascript, MongoDB, NoSql, Sql.
+- 🌱 I’m currently learning Web Languages and Movile Technologies
+- 💬 Ask me about React, React Native, Node, Javascript, Typescript, MongoDB, NoSql, Sql.
 - 📫 How to reach me: facusichi@gmail.com || facusichi99@hotmail.com
 
 <!--
