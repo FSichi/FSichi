@@ -1,4 +1,4 @@
-# 💫 Facundo Sichi (El Bebesus)
+# 💫 Facundo Sichi
 
 🚀 **Information Systems Engineer** | 💻 **CTO & Tech Leader** | 🤖 **AI, RAGs & Voice Assistants Enthusiast**
 
